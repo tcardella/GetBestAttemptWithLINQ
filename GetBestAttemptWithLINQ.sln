@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetBestAttemptWithLINQ", "GetBestAttemptWithLINQ\GetBestAttemptWithLINQ.csproj", "{B6DFB34C-BE86-4472-A18B-A4C8C0F032B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetBestAttemptWithLINQ.UnitTests", "GetBestAttemptWithLINQ.UnitTests\GetBestAttemptWithLINQ.UnitTests.csproj", "{5F501C70-C87D-4CA4-B160-19AF1A06A5A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6DFB34C-BE86-4472-A18B-A4C8C0F032B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6DFB34C-BE86-4472-A18B-A4C8C0F032B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6DFB34C-BE86-4472-A18B-A4C8C0F032B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6DFB34C-BE86-4472-A18B-A4C8C0F032B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F501C70-C87D-4CA4-B160-19AF1A06A5A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F501C70-C87D-4CA4-B160-19AF1A06A5A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F501C70-C87D-4CA4-B160-19AF1A06A5A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F501C70-C87D-4CA4-B160-19AF1A06A5A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {837E38F4-BB80-4D9E-8186-F159D0348C09}
+	EndGlobalSection
+EndGlobal
